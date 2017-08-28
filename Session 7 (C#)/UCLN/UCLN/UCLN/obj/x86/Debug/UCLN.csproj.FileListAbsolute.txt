@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Projects\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Projects\UCLN\UCLN\UCLN\bin\Debug\UCLN.exe
+C:\Users\Asus\Documents\Projects\UCLN\UCLN\UCLN\bin\Debug\UCLN.pdb
+C:\Users\Asus\Documents\Projects\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.exe
+C:\Users\Asus\Documents\Projects\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.pdb
+C:\Users\Asus\Desktop\C4EGEN11\Homework\Session 7 (C#)\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\C4EGEN11\Homework\Session 7 (C#)\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.exe
+C:\Users\Asus\Desktop\C4EGEN11\Homework\Session 7 (C#)\UCLN\UCLN\UCLN\bin\Debug\UCLN.exe
+C:\Users\Asus\Desktop\C4EGEN11\Homework\Session 7 (C#)\UCLN\UCLN\UCLN\bin\Debug\UCLN.pdb
+C:\Users\Asus\Desktop\C4EGEN11\Homework\Session 7 (C#)\UCLN\UCLN\UCLN\obj\x86\Debug\UCLN.pdb

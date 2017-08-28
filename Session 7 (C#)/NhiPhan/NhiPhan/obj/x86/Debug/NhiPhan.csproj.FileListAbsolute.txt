@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Projects\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Projects\NhiPhan\NhiPhan\bin\Debug\NhiPhan.exe
+C:\Users\Asus\Documents\Projects\NhiPhan\NhiPhan\bin\Debug\NhiPhan.pdb
+C:\Users\Asus\Documents\Projects\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.exe
+C:\Users\Asus\Documents\Projects\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.pdb

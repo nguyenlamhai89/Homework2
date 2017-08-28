@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\Python\Homework\Session 6 (C#)\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Asus\Desktop\Python\Homework\Session 6 (C#)\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Asus\Desktop\Python\Homework\Session 6 (C#)\BMI\BMI\obj\x86\Debug\BMI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Python\Homework\Session 6 (C#)\BMI\BMI\obj\x86\Debug\BMI.exe
+C:\Users\Asus\Desktop\Python\Homework\Session 6 (C#)\BMI\BMI\obj\x86\Debug\BMI.pdb

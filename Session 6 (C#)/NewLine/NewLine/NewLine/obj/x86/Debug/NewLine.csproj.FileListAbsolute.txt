@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Projects\NewLine\NewLine\NewLine\bin\Debug\NewLine.exe
+C:\Users\Asus\Documents\Projects\NewLine\NewLine\NewLine\bin\Debug\NewLine.pdb
+C:\Users\Asus\Documents\Projects\NewLine\NewLine\NewLine\obj\x86\Debug\NewLine.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Projects\NewLine\NewLine\NewLine\obj\x86\Debug\NewLine.exe
+C:\Users\Asus\Documents\Projects\NewLine\NewLine\NewLine\obj\x86\Debug\NewLine.pdb

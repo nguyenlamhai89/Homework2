@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/PlayScene.unity
+- path: C:/Users/Asus/Desktop/C4EGEN11/Homework/Unity/GodTower/Assets/Scenes/Level1.unity
   isLoaded: 1
   isActive: 1

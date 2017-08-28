@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{444DCF29-B6E4-4AF8-BEC4-E759859F69C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444DCF29-B6E4-4AF8-BEC4-E759859F69C0}.Debug|x86.ActiveCfg = Debug|x86
+		{444DCF29-B6E4-4AF8-BEC4-E759859F69C0}.Debug|x86.Build.0 = Debug|x86
+		{444DCF29-B6E4-4AF8-BEC4-E759859F69C0}.Release|x86.ActiveCfg = Release|x86
+		{444DCF29-B6E4-4AF8-BEC4-E759859F69C0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

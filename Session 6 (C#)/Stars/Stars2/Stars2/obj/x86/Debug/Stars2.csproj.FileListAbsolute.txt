@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Projects\Stars\Stars2\Stars2\bin\Debug\Stars2.exe
+C:\Users\Asus\Documents\Projects\Stars\Stars2\Stars2\bin\Debug\Stars2.pdb
+C:\Users\Asus\Documents\Projects\Stars\Stars2\Stars2\obj\x86\Debug\Stars2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Projects\Stars\Stars2\Stars2\obj\x86\Debug\Stars2.exe
+C:\Users\Asus\Documents\Projects\Stars\Stars2\Stars2\obj\x86\Debug\Stars2.pdb

@@ -1,0 +1,11 @@
+1.Cách xác dinh kieu bien:
+-Dùng hàm isinstance(tên bien,kieu bien) 
+Int a;
+Truyen a là tên bien,int là kieu du lieu
+=>ket qua tra ve là True
+
+
+2.Các truong hop dính loi Syntax Error:
+ +Tên bat dau bang so (123nguyenlamhai)
+ +Tên chua kí tu dac biet($,+,-,..)
+ +Có khoang trang trong tên bien(nguyen lam hai)
