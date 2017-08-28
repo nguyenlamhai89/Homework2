@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Level1 : MonoBehaviour {
 
@@ -36,13 +37,15 @@ public class Level1 : MonoBehaviour {
 
 
 
-	public void CheckAnswerLevel1 (string answer){
+	public void CheckAnswerLevel1 (string answer) {
 		if (answer == levelAnswer1) {
 			hintText.text = "Yayyy";
 			hintText.color = Color.green;
+			SceneManager.LoadScene (2);
 
 			//TODO: Change scene
-		}else{
+
+		} else {
 			hintText.text = "Wrongg";
 			hintText.color = Color.red;
 			inputField.text = "";

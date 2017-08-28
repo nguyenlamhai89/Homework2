@@ -51,9 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\HintChanger.cs" />
+     <Compile Include="Assets\Scripts\Lev5Controller1.cs" />
      <Compile Include="Assets\Scripts\Level1.cs" />
      <Compile Include="Assets\Scripts\Level2.cs" />
      <Compile Include="Assets\Scripts\Level3.cs" />
+     <Compile Include="Assets\Scripts\Level4BarController.cs" />
+     <Compile Include="Assets\Scripts\Level4Play.cs" />
+     <Compile Include="Assets\Scripts\Level5.cs" />
+     <Compile Include="Assets\Scripts\Start.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Downloads/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

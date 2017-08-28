@@ -41,7 +41,7 @@ public class Level5 : MonoBehaviour {
 		if (answer == levelAnswer5) {
 			hintText.text = "Yayyy";
 			hintText.color = Color.green;
-			SceneManager.LoadScene (0);
+			SceneManager.LoadScene (5);
 
 			//TODO: Change scene
 

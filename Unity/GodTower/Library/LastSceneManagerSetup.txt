@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/StartScene.unity
+- path: C:/Users/Asus/Desktop/C4EGEN11/Homeworkclone1/Homework2/Unity/GodTower/Assets/Scenes/Level3.unity
   isLoaded: 1
   isActive: 1

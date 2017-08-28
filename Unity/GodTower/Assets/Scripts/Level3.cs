@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Level3 : MonoBehaviour {
 
@@ -40,8 +41,8 @@ public class Level3 : MonoBehaviour {
 		if (answer == levelAnswer3) {
 			hintText.text = "Yayyy";
 			hintText.color = Color.green;
-
 			//TODO: Change scene
+			SceneManager.LoadScene (0);
 		}else{
 			hintText.text = "Wrongg";
 			hintText.color = Color.red;
@@ -65,6 +66,4 @@ public class Level3 : MonoBehaviour {
 		}
 
 	}
-
-
 }

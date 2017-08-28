@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Level2 : MonoBehaviour {
 
@@ -41,6 +42,7 @@ public class Level2 : MonoBehaviour {
 			hintText.text = "Yayyy";
 			hintText.color = Color.green;
 			//TODO: Change scene
+			SceneManager.LoadScene (3);
 		}else{
 			hintText.text = "Wrongg";
 			hintText.color = Color.red;
