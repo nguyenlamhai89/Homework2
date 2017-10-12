@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+    <div class="container">
+      <div class="row">
+        <input id="inputfield" type="text" name="search" placeholder="Tìm gái của bạn đi nào á hi hi..">
+        <a href="https://google.com">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="row">
+        {% for girl_type in girl_types %}
+        <div class="col-lg-4 col-sm-6 m*-5">
+
+          <div class="card-girl-type card mb-4">
+            <img src="{{ girl_type["image"] }}" alt="" class="card-girl-img mb-3 img-fluid card-img-top">
+            <div class="card-body">
+              <h4 class="card-title">{{ girl_type["name"] }}</h4>
+              <p>{{ girl_type["description"] }}</p>
+            </div>
+            <div class="card-footer">
+              <div class="clearfix">
+                <a class=" float-right" href="/girl_type/{{ girl_type.id }}">
+                  <button class="btn btn-primary">Chi tiết</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </body>
+{% endblock %}
